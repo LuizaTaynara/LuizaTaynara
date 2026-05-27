@@ -6,7 +6,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
