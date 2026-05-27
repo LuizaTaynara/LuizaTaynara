@@ -61,7 +61,18 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
 />
+
+
+<img
+  align="left" 
+  alt="VSCode"
+  title="VSCode" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
           
+
 <img 
   align="left" 
   alt="Postman"
