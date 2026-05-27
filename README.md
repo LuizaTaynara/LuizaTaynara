@@ -1,6 +1,6 @@
-#👩🏻‍💻 Luiza Taynara Santos
+# 👩🏻‍💻 Luiza Taynara Santos
 
-**`QA tester em formação`**
+**`Junior QA tester em formação`**
 
 Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em Administração de empresa e atualmente conclui um Bootcamp de Quality Assurance (QA) na TripliTenBrasil. Sou apaixonada por tecnologia e busco minha primeira oportunidade em QA para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a qualidade e melhoria contínua da minha próxima empresa.
 
@@ -12,7 +12,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -21,7 +21,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -30,7 +30,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="SQL"
   title="SQL" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
@@ -39,7 +39,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="AndroidStudio"
   title="AndroidStudio" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
  />
@@ -48,7 +48,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="Selenium"
   title="Selenium" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -57,7 +57,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="PyCharm"
   title="PYCharm" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
 />
@@ -66,7 +66,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="Postman"
   title="Postman" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -75,7 +75,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="Figma"
   title="Figma" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
@@ -84,7 +84,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="JIRA"
   title="JIRA" 
-  width="40px" 
+  width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" 
 />
@@ -93,7 +93,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
