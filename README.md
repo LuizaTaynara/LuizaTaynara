@@ -12,7 +12,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -21,7 +21,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -30,7 +30,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="SQL"
   title="SQL" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
@@ -39,37 +39,34 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="AndroidStudio"
   title="AndroidStudio" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
  />
-
 
 <img 
   align="left" 
   alt="Selenium"
   title="Selenium" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
           
-
 <img 
   align="left" 
   alt="PyCharm"
   title="PYCharm" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
 />
           
-
 <img 
   align="left" 
   alt="Postman"
   title="Postman" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -78,7 +75,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="Figma"
   title="Figma" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
@@ -87,7 +84,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
   align="left" 
   alt="JIRA"
   title="JIRA" 
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" 
 />
@@ -96,7 +93,7 @@ Me chamo Luiza Santos, tenho 36 anos e sou natural de Brasilia. Sou formada em A
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
