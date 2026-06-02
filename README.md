@@ -103,7 +103,7 @@ Designed a maintainable automation framework following industry best practices a
 
 &nbsp;
 
-</p><h3 align="center">🛴 End-to-End Quality Assurance Project – Urban Scooter</h3> 
+</p><h3 align="center">🛴 End-to-End Quality Assurance - Final Project – Urban Scooter</h3> 
 
 Conducted end-to-end testing of the Urban Scooter platform across web, mobile, and API environments. Designed and executed positive and negative test cases, validated customer and courier workflows, performed cross-browser and mobile testing, and verified backend functionality through API testing using Postman.
 
