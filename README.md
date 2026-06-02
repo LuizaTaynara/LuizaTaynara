@@ -83,7 +83,7 @@ Executed testing on an Android emulator, identified and documented defects in Ji
 
 &nbsp;
 
-</p><h3 align="center">💻 Linux, SQL & Data Validation Project – Urban Taxi</h3> 
+</p><h3 align="center">💻 Basic Database Concepts Project – Urban Taxi</h3> 
 
 Performed log analysis and database validation activities using Linux and SQL to investigate system behavior, identify errors, and verify business data. Analyzed server logs, filtered HTTP requests and error codes, organized incident-related records, and validated operational data through SQL queries and relational database analysis.
 
@@ -94,8 +94,6 @@ Executed data aggregation, joins, filtering, and business rule validation to sup
 &nbsp;
 
 </p><h3 align="center">🤖 Test Automation Project – Urban Routes</h3> 
-
-### 🤖 Test Automation Project – Urban Routes
 
 Developed and executed automated end-to-end tests for the Urban Routes web application using Python, Selenium WebDriver, and the Page Object Model (POM). Implemented reusable page classes, centralized test data management, environment validation, and automated workflows covering route setup, ride booking, payment registration, additional services, and vehicle search.
 
