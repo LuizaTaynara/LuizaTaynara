@@ -95,6 +95,8 @@ Executed data aggregation, joins, filtering, and business rule validation to sup
 
 </p><h3 align="center">🤖 Test Automation Project – Urban Routes</h3> 
 
+### 🤖 Test Automation Project – Urban Routes
+
 Developed and executed automated end-to-end tests for the Urban Routes web application using Python, Selenium WebDriver, and the Page Object Model (POM). Implemented reusable page classes, centralized test data management, environment validation, and automated workflows covering route setup, ride booking, payment registration, additional services, and vehicle search.
 
 Designed a maintainable automation framework following industry best practices and executed automated test suites using Pytest to validate core application functionality.
