@@ -54,7 +54,11 @@
 These are some of my <strong>featured projects:</strong>
 </div>
 
-</p><h3 align="center"> 🚗 Web Testing Project – Car Sharing Platform </h3> 
+<h3 align="center">
+  🚗 <a href="https://github.com/LuizaTaynara/Web_Testing-Car_Sharing">
+    Web Testing Project – Car Sharing Platform
+  </a>
+</h3> 
 
 Conducted end-to-end manual testing of a web-based car sharing application, including test planning, test case design, checklist creation, and defect reporting.
 Validated booking, payment, and vehicle rental workflows while performing UI, responsive, and cross-browser testing to ensure a consistent user experience across different environments.
@@ -63,7 +67,12 @@ Validated booking, payment, and vehicle rental workflows while performing UI, re
 
 &nbsp;
 
-</p><h3 align="center">🔌 API Testing Project – Urban Grocers</h3> 
+<h3 align="center">
+  🔌 <a href="https://github.com/LuizaTaynara/API_Testing-Urban_Grocers">
+    API Testing Project – Urban Grocers
+  </a>
+</h3> 
+
 
 Conducted end-to-end manual API testing of new backend features for the Urban.Grocers application. Reviewed API documentation, designed test scenarios and checklists, executed requests using Postman, and validated functionality related to product kit management and delivery service calculations.
 
@@ -73,7 +82,11 @@ Verified request and response behavior, HTTP status codes, JSON payloads, busine
 
 &nbsp;
 
-</p><h3 align="center">📱 Mobile Testing Project – Urban Lunch</h3> 
+<h3 align="center">
+  📱 <a href="https://github.com/LuizaTaynara/Mobile_Testing-Urban_Lunch">
+    Mobile Testing Project – Urban Lunch
+  </a>
+</h3>
 
 Conducted end-to-end manual testing of the Urban Lunch Android application, including test planning, checklist creation, functional validation, and defect reporting. Tested restaurant and pickup point selection, food ordering workflows, cart management, and order confirmation processes while validating UI behavior, navigation, and usability.
 
@@ -83,7 +96,11 @@ Executed testing on an Android emulator, identified and documented defects in Ji
 
 &nbsp;
 
-</p><h3 align="center">💻 Basic Database Concepts Project – Urban Taxi</h3> 
+<h3 align="center">
+  💻 <a href="https://github.com/LuizaTaynara/Basic_Database_Concepts-Urban_Taxi">
+    Basic Database Concepts Project – Urban Taxi
+  </a>
+</h3>
 
 Performed log analysis and database validation activities using Linux and SQL to investigate system behavior, identify errors, and verify business data. Analyzed server logs, filtered HTTP requests and error codes, organized incident-related records, and validated operational data through SQL queries and relational database analysis.
 
@@ -93,7 +110,11 @@ Executed data aggregation, joins, filtering, and business rule validation to sup
 
 &nbsp;
 
-</p><h3 align="center">🤖 Test Automation Project – Urban Routes</h3> 
+<h3 align="center">
+  🤖 <a href="https://github.com/LuizaTaynara/Test_Automation-Urban_Routes">
+    Test Automation Project – Urban Routes
+  </a>
+</h3>
 
 Developed and executed automated end-to-end tests for the Urban Routes web application using Python, Selenium WebDriver, and the Page Object Model (POM). Implemented reusable page classes, centralized test data management, environment validation, and automated workflows covering route setup, ride booking, payment registration, additional services, and vehicle search.
 
@@ -103,7 +124,11 @@ Designed a maintainable automation framework following industry best practices a
 
 &nbsp;
 
-</p><h3 align="center">🛴 End-to-End Quality Assurance - Final Project – Urban Scooter</h3> 
+<h3 align="center">
+  🛴 <a href="https://github.com/LuizaTaynara/End_To_End_Final_Project-Urban_Scooter">
+    End-to-End Quality Assurance - Final Project – Urban Scooter
+  </a>
+</h3>
 
 Conducted end-to-end testing of the Urban Scooter platform across web, mobile, and API environments. Designed and executed positive and negative test cases, validated customer and courier workflows, performed cross-browser and mobile testing, and verified backend functionality through API testing using Postman.
 
@@ -113,6 +138,10 @@ Analyzed requirements, documented defects in Jira, and evaluated application beh
 
 &nbsp;
 
+<h3 align="center">
+      🚀 Atualmente dedicada ao desenvolvimento do projeto  <a href="https://github.com/LuizaTaynara/Roadmap.QA"> QA Roadmap
+  </a>
+</h3>
 
 ---
 
