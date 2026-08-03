@@ -139,7 +139,7 @@ Analyzed requirements, documented defects in Jira, and evaluated application beh
 &nbsp;
 
 <h3 align="center">
-      🚀 Atualmente dedicada ao desenvolvimento do projeto  <a href="https://github.com/LuizaTaynara/Roadmap.QA"> QA Roadmap
+      🚀 Atualmente dedicada ao desenvolvimento do projeto  <a href="https://github.com/LuizaTaynara/QA_Engineering_Roadmap"> QA Roadmap
   </a>
 </h3>
 
